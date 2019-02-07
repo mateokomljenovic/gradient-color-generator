@@ -1,0 +1,7 @@
+This is just a simple program made while studying JavaScript in order to get the DOM. 
+
+Nothing particular to see here. :) 
+
+Appreciate the comments!¨
+
+Mateo
